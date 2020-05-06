@@ -1,0 +1,73 @@
+body{
+  margin:0px;
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: sans-serif;
+}
+h1{
+  margin-top:0px;
+  font-family: 'calibri',cursive;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+}
+.sub-category{
+  font-family: 'sacramento',cursive;
+  font-size: 40px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+
+}
+.middle-container{
+  background-color: #f1e3cb;
+
+}
+.Enquiry{
+  background-color: #f8f3eb;
+}
+.bottom-container{
+    background-color: #c3edea;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: italic;
+  font-family: 'sacramento',cursive;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.topnav-right {
+  float: right;
+}
+.button {
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
